@@ -1,0 +1,17 @@
+body{
+  background-image: url("farleigh.JPG");
+  background-image: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+body{
+  font-family: 'Permanent Marker', cursive;
+}
+.content{
+  text-align: center;
+}
+.content{
+  font-size: 80px;
+  color: #190F0F;
+  font-weight: bold;
+}
