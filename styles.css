@@ -31,6 +31,26 @@ body{
 .jobad {
     text-align: center;
 }
+.joblink {
+  text-align: center;
+  color: #F5FF00;
+  font-family: 'Pacifico', cursive;
+  list-style: none;
+  text-decoration: none;
+}
+
+.joblink a {
+  text-align: center;
+  color: #F5FF00;
+  font-family: 'Pacifico', cursive;
+  list-style: none;
+  text-decoration: none;
+}
+
+.joblink a:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
 div {
   font-size: 40px;
   color: #190F0F;
