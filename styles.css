@@ -26,8 +26,11 @@ body{
   color: #D1D3A1;
   font-weight: normal;
   text-align: center;
+  list-style: none;
 }
-
+.jobad {
+    text-align: center;
+}
 div {
   font-size: 40px;
   color: #190F0F;
