@@ -15,8 +15,25 @@ body{
   color: #190F0F;
   font-weight: bold;
 }
-.links{
-  font-size: 15px;
-  color: #F5FF00;
-  font-weight:normal;
+ul {
+margin-left: auto;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  float: left;
+  line-height: 100px;
+
+}
+
+ul li a {
+text-decoration: none;
+color: #F5FF00;
+font-family: 'Pacifico', cursive;
+padding: 0 20px;
+}
+ul li a:hover {
+text-decoration: none;
+color: #FFFFFF;
 }
