@@ -24,7 +24,6 @@ p {
   color: #190F0F;
   font-weight:normal;
 }
-
 .weather {
   font-size: 18px;
   text-align: center;
@@ -33,7 +32,6 @@ p {
   list-style: none;
   text-decoration: none;
 }
-
 .weather a {
   text-align: center;
   color: #F5FF00;
@@ -41,12 +39,10 @@ p {
   list-style: none;
   text-decoration: none;
 }
-
 .weather a:hover {
   color: #FFFFFF;
   text-decoration: none;
 }
-
 .writing {
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
@@ -55,7 +51,6 @@ p {
   text-align: center;
   list-style: none;
 }
-
 .personality {
   text-align: center;
   color: #F5FF00;
@@ -63,7 +58,6 @@ p {
   list-style: none;
   text-decoration: none;
 }
-
 .personality a {
   text-align: center;
   color: #F5FF00;
@@ -71,12 +65,10 @@ p {
   list-style: none;
   text-decoration: none;
 }
-
 .personality a:hover {
   color: #FFFFFF;
   text-decoration: none;
 }
-
 .test_results {
   text-align: center;
 }
@@ -90,7 +82,6 @@ p {
   list-style: none;
   text-decoration: none;
 }
-
 .joblink a {
   text-align: center;
   color: #F5FF00;
@@ -98,7 +89,6 @@ p {
   list-style: none;
   text-decoration: none;
 }
-
 .joblink a:hover {
   color: #FFFFFF;
   text-decoration: none;
@@ -117,9 +107,7 @@ ul li {
   display: inline-block;
   float: left;
   line-height: 100px;
-
 }
-
 ul li a {
 text-decoration: none;
 color: #F5FF00;
@@ -130,7 +118,6 @@ ul li a:hover {
 text-decoration: none;
 color: #FFFFFF;
 }
-
 .img-poodles {
   display: block;
   margin-left: auto;
