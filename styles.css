@@ -7,6 +7,10 @@ body{
 body{
   font-family: 'Permanent Marker', cursive;
 }
+p {
+  margin-left: 400px;
+  margin-right: 400px;
+}
 .heading {
   text-align: center;
 }
@@ -20,6 +24,29 @@ body{
   color: #190F0F;
   font-weight:normal;
 }
+
+.weather {
+  font-size: 18px;
+  text-align: center;
+  color: #F5FF00;
+  font-family: 'Pacifico', cursive;
+  list-style: none;
+  text-decoration: none;
+}
+
+.weather a {
+  text-align: center;
+  color: #F5FF00;
+  font-family: 'Pacifico', cursive;
+  list-style: none;
+  text-decoration: none;
+}
+
+.weather a:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
 .writing {
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
@@ -28,6 +55,28 @@ body{
   text-align: center;
   list-style: none;
 }
+
+.personality {
+  text-align: center;
+  color: #F5FF00;
+  font-family: 'Pacifico', cursive;
+  list-style: none;
+  text-decoration: none;
+}
+
+.personality a {
+  text-align: center;
+  color: #F5FF00;
+  font-family: 'Pacifico', cursive;
+  list-style: none;
+  text-decoration: none;
+}
+
+.personality a:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
 .test_results {
   text-align: center;
 }
