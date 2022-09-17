@@ -7,13 +7,23 @@ body{
 body{
   font-family: 'Permanent Marker', cursive;
 }
-.content{
+.heading {
   text-align: center;
 }
-.content{
+.heading {
   font-size: 40px;
   color: #190F0F;
   font-weight: bold;
+}
+.info {
+  font-size: 40px;
+  color: #190F0F;
+  font-weight:normal;
+}
+div {
+  font-size: 40px;
+  color: #190F0F;
+  font-weight:normal;
 }
 ul {
 margin-left: auto;
@@ -36,4 +46,9 @@ padding: 0 20px;
 ul li a:hover {
 text-decoration: none;
 color: #FFFFFF;
+}
+
+.img-poodles {
+  width: 1000px;
+  
 }
