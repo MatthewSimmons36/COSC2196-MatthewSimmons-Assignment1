@@ -28,6 +28,9 @@ body{
   text-align: center;
   list-style: none;
 }
+.test_results {
+  text-align: center;
+}
 .jobad {
     text-align: center;
 }
